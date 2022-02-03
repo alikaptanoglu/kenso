@@ -4,8 +4,6 @@ Kenso is a fully functional social media app with multiple features built with f
 
 ## Features
 
----
-
 - Authenticate using google accounts
 - Custom photo feed
 - Post photo posts from camera or gallery
@@ -22,8 +20,6 @@ Kenso is a fully functional social media app with multiple features built with f
 - Used Provider to manage state
 
 ## Screenshots
-
----
 
 <p>
 <img src="Screenshots/3.png" width="300"/> <img src="Screenshots/6.png" width="300"/>
